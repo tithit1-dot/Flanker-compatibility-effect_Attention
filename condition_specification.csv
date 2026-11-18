@@ -1,0 +1,5 @@
+condition,target,stimulus,correct_key
+congruent,H,HHHHH,F
+congruent,S,SSSSS,J
+incongruent,H,SSHSS,F
+incongruent,S,HHSHH,J
